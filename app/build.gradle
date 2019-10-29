@@ -30,5 +30,7 @@ dependencies {
 //    implementation ('com.codyy.mobile:barcode-scanner:1.0.1'){
 //        exclude group: 'com.android.support'//主工程有support包,则剔除
 //    }
-    implementation (project(':zxing'))
+//    implementation (project(':zxing'))
+    implementation 'com.github.codyy-mobile:barcode-scanner:1.1.1'
+    api 'com.google.zxing:core:3.3.3'
 }

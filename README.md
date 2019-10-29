@@ -10,5 +10,6 @@ allprojects {
 //app
 dependencies {
     implementation 'com.github.codyy-mobile:barcode-scanner:1.1.1'
+    api 'com.google.zxing:core:3.3.3'//dependencies zxing core library
 }
 ```
