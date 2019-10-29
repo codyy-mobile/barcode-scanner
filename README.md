@@ -1,4 +1,8 @@
-﻿### 扫描二维码/条码 [![](https://jitpack.io/v/codyy-mobile/barcode-scanner.svg)](https://jitpack.io/#codyy-mobile/barcode-scanner)
+﻿### 扫描二维码/条码
+
+[![](https://jitpack.io/v/codyy-mobile/barcode-scanner.svg)](https://jitpack.io/#codyy-mobile/barcode-scanner)
+
+
 ```
 // gradle 全局配置增加maven地址
 allprojects {
