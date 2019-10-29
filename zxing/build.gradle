@@ -9,8 +9,8 @@ android {
     defaultConfig {
         minSdkVersion MIN_SDK_VERSION as int
         targetSdkVersion TARGET_SDK_VERSION as int
-        versionCode 5
-        versionName "1.1.0"
+        versionCode 6
+        versionName "1.1.1"
     }
 
     buildTypes {
@@ -30,7 +30,7 @@ ext {
 }
 
 dependencies {
-    api project(":core")
+//    api project(":core")
     implementation 'androidx.appcompat:appcompat:1.1.0'
 //    compile ('com.codyy.mobile:barcode-scanner-core:1.0.1'){
 //        exclude group: 'com.android.support'
